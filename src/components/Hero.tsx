@@ -54,7 +54,7 @@ export function Hero() {
                 Create with Jarvis.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-                Jarvis, your AI assistant, helps you create any business website or file. It's like GPT-3, but focused on making creating things with AI a better experience.
+                Jarvis, your AI assistant, helps you create any business website or file. Its like GPT-3, but focused on making creating things with AI a better experience.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/">Get started</Button>
